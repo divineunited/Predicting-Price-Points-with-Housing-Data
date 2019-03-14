@@ -1,4 +1,4 @@
-# Comparing Single vs. Multiple Linear Regression with Price Prediction
+# Comparing Single vs. Multiple Linear Regression Machine Learning Models with Price Prediction
 
 *By Danny Vu*
 
@@ -49,5 +49,3 @@ This is a comparing visual of the two model predictions compared to the actual p
 <img src="data/2d-plot.png" alt="2 Features" style="width: 800px;"/>
 
 <img src="data/3d-plot.png" alt="3 Features" style="width: 800px;"/>
-
-Continue below to see the full analysis as well as a prediction on a data-set that doesn't have prices.
